@@ -79,7 +79,7 @@
   ],
   "burgers": [
     {
-      "nome": "Matheus Battisti",
+      "nome": "Ana Paula",
       "carne": "Picanha",
       "pao": "Italiano Branco",
       "opcionais": [
@@ -87,50 +87,74 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Finalizado",
+      "status": "Em produção",
       "id": 1
     },
     {
-      "nome": "João Coelho",
+      "nome": "Inês Haufiku",
       "carne": "Maminha",
       "pao": "3 Queijos",
       "opcionais": [
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
-      "id": 4
+      "status": "Em produção",
+      "id": 2
     },
     {
-      "nome": "Nicolau",
+      "nome": "Hélder Haufiku",
       "pao": "Italiano Branco",
       "carne": "Veggie burger",
       "opcionais": [
         "Pepino",
         "Tomate"
       ],
-      "status": "Solicitado",
-      "id": 5
+      "status": "Finalizado",
+      "id": 3
     },
     {
-      "nome": "Alfredo",
-      "pao": "3 Queijos",
-      "carne": "Alcatra",
-      "opcionais": [
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "nome": "Ana Paula",
+      "nome": "Ófelia Haufiku",
       "pao": "Integral",
       "carne": "Veggie burger",
       "opcionais": [
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
+      "id": 4
+    },
+    {
+      "nome": "Valdemar Haufiku",
+      "pao": "3 Queijos",
+      "carne": "Alcatra",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 5
+    },
+    {
+      "nome": "Nicolau Alfredo",
+      "pao": "Italiano Branco",
+      "carne": "Maminha",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 6
+    },
+    {
+      "nome": "Joelson Modesto",
+      "pao": "3 Queijos",
+      "carne": "Alcatra",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa"
+      ],
+      "status": "Em produção",
       "id": 7
     }
   ]
