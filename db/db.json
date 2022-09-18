@@ -98,7 +98,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Em produção",
+      "status": "Finalizado",
       "id": 2
     },
     {
@@ -136,26 +136,14 @@
     {
       "nome": "Nicolau Alfredo",
       "pao": "Italiano Branco",
-      "carne": "Maminha",
-      "opcionais": [
-        "Bacon",
-        "Tomate",
-        "Salame",
-        "Cheddar"
-      ],
-      "status": "Em produção",
-      "id": 6
-    },
-    {
-      "nome": "Joelson Modesto",
-      "pao": "3 Queijos",
       "carne": "Alcatra",
       "opcionais": [
         "Bacon",
-        "Cebola roxa"
+        "Salame",
+        "Tomate"
       ],
-      "status": "Em produção",
-      "id": 7
+      "status": "Solicitado",
+      "id": 6
     }
   ]
 }
