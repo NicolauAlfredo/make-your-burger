@@ -87,7 +87,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Em produção",
+      "status": "Finalizado",
       "id": 1
     },
     {
@@ -98,7 +98,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Finalizado",
+      "status": "Em produção",
       "id": 2
     },
     {
@@ -109,7 +109,7 @@
         "Pepino",
         "Tomate"
       ],
-      "status": "Finalizado",
+      "status": "Em produção",
       "id": 3
     },
     {
@@ -142,8 +142,19 @@
         "Salame",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 6
+    },
+    {
+      "nome": "Joelson Modesto",
+      "pao": "3 Queijos",
+      "carne": "Maminha",
+      "opcionais": [
+        "Pepino",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 7
     }
   ]
 }
